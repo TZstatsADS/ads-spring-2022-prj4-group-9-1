@@ -15,6 +15,9 @@ Term: Spring 2022
 + Project summary: In this project, we implemented, evaluated and compared algorithms for Machine Learning Fairness. Our study compared two different algorithms, Learning Classification without Disparate Mistreatment (DM and DM-sen) and Information Theoretic Measures for Fairness-aware Feature selection (FFS). Implementation and evaluation was based on the COMPAS dataset, which contains the criminal history, jail and prison time, demographics, and COMPAS rosk scores for defendants from Broward County from 2013 and 2014. Our goal is to compare the performance and efficiency of the above algorithms.
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
++ Micol Clement and Yvonne Zha contribute to the analysis and implementation of DM and DM-sen.
++ Vaishak Naik, Yinan Shi and Ran Zhang contribute to the analysis and implementation of FFS.
++ Vaishak Naik present the project.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
