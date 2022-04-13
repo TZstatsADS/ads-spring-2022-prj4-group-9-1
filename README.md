@@ -5,7 +5,7 @@
 Term: Spring 2022
 
 + Team 9
-+ Projec title: Machine Learning Fairness Algorithms Evaluation
++ Project title: Machine Learning Fairness Algorithms Evaluation
 + Team members
 	+ Clement, Micol mc5104@columbia.edu
 	+ Naik, Vaishak vvn2107@columbia.edu
