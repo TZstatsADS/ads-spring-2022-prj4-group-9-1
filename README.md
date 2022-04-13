@@ -12,7 +12,7 @@ Term: Spring 2022
 	+ Shi, Yinan ys3387@columbia.edu
 	+ Zha, Yvonne lz2806@columbia.edu
 	+ Zhang, Ran rz2568@columbia.edu
-+ Project summary: In this project, we implemented, evaluated and compared algorithms for Machine Learning Fairness. Our study compared two different algorithms, Learning Classification without Disparate Mistreatment (DM and DM-sen) and Information Theoretic Measures for Fairness-aware Feature selection (FFS). Implementation and evaluation was based on the COMPAS dataset, which contains the criminal history, jail and prison time, demographics, and COMPAS rosk scores for defendants from Broward County from 2013 and 2014. Our goal is to compare the performance and efficiency of the above algorithms.
++ Project summary: In this project, we implemented, evaluated and compared algorithms for Machine Learning Fairness. Our study compared two different algorithms, Learning Classification without Disparate Mistreatment (DM and DM-sen) and Information Theoretic Measures for Fairness-aware Feature selection (FFS). Implementation and evaluation was based on the COMPAS dataset, which contains the criminal history, jail and prison time, demographics, and COMPAS risk scores for defendants from Broward County from 2013 and 2014. Our goal is to compare the performance and efficiency of the above algorithms.
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 + Micol Clement and Yvonne Zha contribute to the analysis and implementation of DM and DM-sen.
