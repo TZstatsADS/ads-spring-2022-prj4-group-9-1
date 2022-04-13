@@ -29,5 +29,6 @@ proj/
 ├── figs/
 └── output/
 ```
+**Note**: The DM.ipynb is the final version of DM and DM-sen, and the ITFFS.ipynb is the final version of FFS.
 
 Please see each subfolder for a README file.
